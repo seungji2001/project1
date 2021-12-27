@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Ώΐ΄ΓΐΗ ΑΆΌΣΐΪ Όφ΄Β <%=application.getAttribute("count") %>ΈνΐΤ΄Ο΄Ω.
+μ¤λ μ ‘μ†μ μλ”
+<%=application.getAttribute("count") %>μ…λ‹λ‹¤.
 </body>
 </html>
